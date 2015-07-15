@@ -1,8 +1,6 @@
 #Vintage Software HTML CSS & Sass Style Guide
 
 A big thanks to the following projects:
-
-A big thanks to the following projects:
 - [codeguide.co](http://codeguide.co/)
 - [Github Style Guide](https://github.com/styleguide)
 
