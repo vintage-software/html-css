@@ -7,7 +7,7 @@ A big thanks to the following projects:
 1. [HTML](#HTML)
 2. [CSS/Sass](#CSS/Sass)
 
-##HTML
+## HTML
 Strive to maintain HTML standards and semantics, but not at the expense of practicality. Use the least amount of markup with the fewest intricacies whenever possible.
 
 ###Formatting
