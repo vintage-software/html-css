@@ -1,5 +1,12 @@
 #Vintage Software HTML CSS & Sass Style Guide
 
+A big thanks to the following projects:
+- [Code Guide by @mdo](http://codeguide.co/)
+- [Github Style Guide](https://github.com/styleguide/javascript)
+
+1. [HTML](#HTML)
+2. [CSS/Sass](#CSS/Sass)
+
 ##HTML
 Strive to maintain HTML standards and semantics, but not at the expense of practicality. Use the least amount of markup with the fewest intricacies whenever possible.
 
