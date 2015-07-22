@@ -63,6 +63,7 @@ Whenever possible, avoid superfluous parent elements when writing HTML. Many tim
   <span class="avatar">
     <img src="...">
   </span>
+  
   <!-- Better -->
   <img class="avatar" src="...">
   ```
