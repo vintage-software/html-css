@@ -101,6 +101,10 @@ Whenever possible, avoid superfluous parent elements when writing HTML. Many tim
 - Quote attribute values in selectors, e.g., `input[type="text"]`. 
   [Theyâ€™re only optional in some cases](http://mathiasbynens.be/notes/unquoted-attribute-values#css), and itâ€™s a good practice for consistency.
 
+###Box-sizing
+We reset `box-sizing` to `border-box` for every element. This allows us to more easily assign widths to elements that also have `padding` and `borders`.
+
+
 ###BEM Syntax
 Follow the [Custom BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/) Syntax where appropriate to keep html/css module reusable.
 
