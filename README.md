@@ -99,7 +99,7 @@ Whenever possible, avoid superfluous parent elements when writing HTML. Many tim
 - Use shorthand hex values where available, e.g., `#fff` instead of `#ffffff`.
 - Avoid specifying units for zero values, e.g., `margin: 0;` instead of `margin: 0px;`.
 - Quote attribute values in selectors, e.g., `input[type="text"]`. 
-  [Theyâ€™re only optional in some cases](http://mathiasbynens.be/notes/unquoted-attribute-values#css), and itâ€™s a good practice for consistency.
+  [They're only optional in some cases](http://mathiasbynens.be/notes/unquoted-attribute-values#css), and it's a good practice for consistency.
 
 ###Box-sizing
 We reset `box-sizing` to `border-box` for every element. This allows us to more easily assign widths to elements that also have `padding` and `borders`.
