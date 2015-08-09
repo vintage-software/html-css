@@ -2,8 +2,10 @@
 
 A big thanks to the following projects:
 - [codeguide.co](http://codeguide.co/)
-- [Github Style Guide](https://github.com/styleguide)
+- [styleguides.io](http://styleguides.io/)
+- [Github Code Guide](https://github.com/styleguide)
 
+##Categories
 1. [HTML](#html)
 1. [CSS/Sass](#csssass)
 
