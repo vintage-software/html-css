@@ -10,9 +10,12 @@ A big thanks to the following projects:
 - [styleguides.io](http://styleguides.io/)
 - [Github Code Guide](https://github.com/styleguide)
 
-##Categories
+Download the style/lint config files [here](https://github.com/vintage-software/html-css/tree/master/linters).
+
+##Table of Contents
 1. [HTML](#html)
 1. [CSS/Sass](#csssass)
+1. [Tools](#tools)
 
 ## HTML
 Strive to maintain HTML standards and semantics, but not at the expense of practicality. Use the least amount of markup with the fewest intricacies whenever possible.
@@ -182,3 +185,7 @@ Follow the [Custom BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-
     }
   }
   ```
+
+## Tools
+* Use [Node Sass](https://www.npmjs.com/package/node-sass) for fast Sass compiling. 
+* Use [Node sass-lint](https://github.com/sasstools/sass-lint) for linting Sass files. See the lint [config](https://github.com/vintage-software/html-css/tree/master/linters) for Vintage Software Sass code styles.
